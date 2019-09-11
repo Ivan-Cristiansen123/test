@@ -1,0 +1,11 @@
+D:\Tambahan\QUITZ09092019\obj\Debug\netcoreapp2.2\QUITZ09092019.csprojAssemblyReference.cache
+D:\Tambahan\QUITZ09092019\obj\Debug\netcoreapp2.2\QUITZ09092019.csproj.CoreCompileInputs.cache
+D:\Tambahan\QUITZ09092019\obj\Debug\netcoreapp2.2\QUITZ09092019.AssemblyInfoInputs.cache
+D:\Tambahan\QUITZ09092019\obj\Debug\netcoreapp2.2\QUITZ09092019.AssemblyInfo.cs
+D:\Tambahan\QUITZ09092019\bin\Debug\netcoreapp2.2\QUITZ09092019.deps.json
+D:\Tambahan\QUITZ09092019\bin\Debug\netcoreapp2.2\QUITZ09092019.runtimeconfig.json
+D:\Tambahan\QUITZ09092019\bin\Debug\netcoreapp2.2\QUITZ09092019.runtimeconfig.dev.json
+D:\Tambahan\QUITZ09092019\bin\Debug\netcoreapp2.2\QUITZ09092019.dll
+D:\Tambahan\QUITZ09092019\bin\Debug\netcoreapp2.2\QUITZ09092019.pdb
+D:\Tambahan\QUITZ09092019\obj\Debug\netcoreapp2.2\QUITZ09092019.dll
+D:\Tambahan\QUITZ09092019\obj\Debug\netcoreapp2.2\QUITZ09092019.pdb
