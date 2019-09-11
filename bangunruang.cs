@@ -9,10 +9,9 @@ namespace helloworld{
             return  panjang * lebar * tinggi;
         }
     
-         public void volume_kubus(int sisi )
+        public int Volume_kubus(int sisi )
         {
-            Console.WriteLine("luas persegi adalah "+sisi * sisi * sisi);
+            return  sisi * sisi * sisi;
         }
-    
     }
 }

@@ -59,17 +59,18 @@ static void Main(string[] args)
 
     Console.WriteLine("Volume balok adalah "+obj2.Volume_balok(a1,a2,a3));
 
+   
 
          Console.WriteLine("-----------------------");
         Console.WriteLine("menghitung Volume kubus ");
         Console.WriteLine("-----------------------");
 
-           int ss;
-    Console.Write("masukkan sisi :");
-    ss = Convert.ToInt32(Console.ReadLine());
+    int sisi;
 
-    obj.luas_lingkaran(ss);
+    Console.Write("Masukkan sisi : ");
+    sisi = Convert.ToInt32(Console.ReadLine());
 
+    Console.WriteLine("Volume kubus adalah "+obj2.Volume_kubus(sisi));
             }
          }
     }
